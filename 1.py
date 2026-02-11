@@ -1,2 +1,5 @@
-name = "Darshil"
-print(f"Hallo! {name}. Ich heiße Aarya.")
+vorname = "Darshil"
+print(f"Hallo! {vorname}. Ich heiße Aarya.")
+
+nachname = "Dinesh"
+print(f"Name: {vorname} {nachname}")
