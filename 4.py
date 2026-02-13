@@ -1,2 +1,2 @@
-film = "Interstellar (2014)"
+film = "Interstellar"
 print(f"{film} ist mein Lieblingsfilm aus allen Filmen.")
